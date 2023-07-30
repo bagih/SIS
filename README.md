@@ -2,44 +2,44 @@
 
 ## Tentang aplikasi
 
-aplikasi sistem identifikasi sapi dengan menggunakan gambar moncong sapi. cara kerja aplikasi adalah dengan mengambil gambar
+>aplikasi sistem identifikasi sapi dengan menggunakan gambar moncong sapi. cara kerja aplikasi adalah dengan mengambil gambar
 dari mocong sapi dan memasukkan gambarnya ke dalam model machine learning kemudian mendapatkan hasil identifikasi
 
-model dibuat menggunakan tensorflow lite model maker dengan pretrained model mobilenetv2.
+>model dibuat menggunakan tensorflow lite model maker dengan pretrained model mobilenetv2.
 
 ## Ilustrasi cara kerja aplikasi
 
--Ilustrasi cara kerja aplikasi
+- Ilustrasi cara kerja aplikasi
 
-![ilustrasi aplikasi](https://github.com/bagih/sis/blob/master/images/flow.jpg?raw=true){height=60%}
+[<img src="./images/flow.png" width="300"/>](images/flow.png)
 
 ## Screenshot aplikasi
 
 - Splash Screen
 
-![splash screen](https://github.com/bagih/sis/blob/master/images/splash.jpg?raw=true){height=60%}
+[<img src="./images/splash.jpg" height="400"/>](images/splash.jpg)
 
 - Halaman utama
 
-![halaman utama](https://github.com/bagih/sis/blob/master/images/home.jpg?raw=true){height=60%}
+[<img src="./images/home.jpg" height="400"/>](images/home.jpg)
 
 - Halaman pilih gambar
 
-![pick image](https://github.com/bagih/sis/blob/master/images/pick_image.jpg?raw=true){height=60%}
+[<img src="./images/pick_image.jpg" height="400"/>](images/pick_image.jpg)
 
 - Hasil pilih gambar
 
-![hasil pilih gambar](https://github.com/bagih/sis/blob/master/images/after_pick.jpg?raw=true){height=60%}
+[<img src="./images/after_pick.jpg" height="400"/>](images/after_pick.jpg)
 
 - halaman crop gambar
 
-![crop gambar](https://github.com/bagih/sis/blob/master/images/crop.jpg?raw=true){height=60%}
+[<img src="./images/crop.jpg" height="400"/>](images/crop.jpg)
 
 - halaman hasil prediksi (berhasil)
 
-![hasil prediksi berhasil](https://github.com/bagih/sis/blob/master/images/res1.jpg?raw=true){height=60%}
+[<img src="./images/res1.jpg" height="400"/>](images/res1.jpg)
 
 - halaman hasil prediksi (gagal)
 
-![splash screen](https://github.com/bagih/sis/blob/master/images/res2.jpg?raw=true){height=60%}
+[<img src="./images/res2.jpg" height="400"/>](images/res2.jpg)
 
