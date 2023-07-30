@@ -9,37 +9,37 @@ dari mocong sapi dan memasukkan gambarnya ke dalam model machine learning kemudi
 
 ## Ilustrasi cara kerja aplikasi
 
-- Ilustrasi cara kerja aplikasi
+- **Ilustrasi cara kerja aplikasi**
 
 [<img src="./images/flow.png" width="300"/>](images/flow.png)
 
 ## Screenshot aplikasi
 
-- Splash Screen
+- **Splash Screen**
 
 [<img src="./images/splash.jpg" height="400"/>](images/splash.jpg)
 
-- Halaman utama
+- **Halaman utama**
 
 [<img src="./images/home.jpg" height="400"/>](images/home.jpg)
 
-- Halaman pilih gambar
+- **Halaman pilih gambar**
 
 [<img src="./images/pick_image.jpg" height="400"/>](images/pick_image.jpg)
 
-- Hasil pilih gambar
+- **Hasil pilih gambar**
 
 [<img src="./images/after_pick.jpg" height="400"/>](images/after_pick.jpg)
 
-- halaman crop gambar
+- **halaman crop gambar**
 
 [<img src="./images/crop.jpg" height="400"/>](images/crop.jpg)
 
-- halaman hasil prediksi (berhasil)
+- **halaman hasil prediksi (berhasil)**
 
 [<img src="./images/res1.jpg" height="400"/>](images/res1.jpg)
 
-- halaman hasil prediksi (gagal)
+- **halaman hasil prediksi (gagal)**
 
 [<img src="./images/res2.jpg" height="400"/>](images/res2.jpg)
 
